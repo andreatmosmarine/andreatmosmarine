@@ -1,4 +1,4 @@
-https://github-readme-stats.vercel.app/api?username=andreatmosmarine&show_icons=true&theme=codeSTACKr
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusLDC&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **andreatmosmarine/andreatmosmarine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
